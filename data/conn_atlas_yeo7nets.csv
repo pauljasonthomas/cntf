@@ -1,0 +1,133 @@
+,Unnamed: 0,roiName,roiLongName,group,groupLong,yeo_nets,yeo_nets_v2
+0,0,FP_r,Frontal_Pole_Right,FPN_R,Fronto_Parietal_Network_right_hemisphere,FPN,FPN
+1,1,FP_l,Frontal_Pole_Left,FPN_Lang_L,Fronto_Parietal_and_Language_Network_left_hemisphere,FPN,FPN
+2,2,IC_r,Insular_Cortex_Right,Auditory,Auditory_areas,VAN,VAN
+3,3,IC_l,Insular_Cortex_Left,Auditory,Auditory_areas,VAN,VAN
+4,4,SFG_r,Superior_Frontal_Gyrus_Right,FPN_R,Fronto_Parietal_Network_right_hemisphere,DMN,DMN
+5,5,SFG_l,Superior_Frontal_Gyrus_Left,FPN_Lang_L,Fronto_Parietal_and_Language_Network_left_hemisphere,DMN,DMN
+6,6,MidFG_r,Middle_Frontal_Gyrus_Right,FPN_R,Fronto_Parietal_Network_right_hemisphere,DMN,DMN
+7,7,MidFG_l,Middle_Frontal_Gyrus_Left,FPN_Lang_L,Fronto_Parietal_and_Language_Network_left_hemisphere,DMN,DMN
+8,8,IFG_tri_r,Inferior_Frontal_Gyrus_pars_triangularis_Right,ITG,Inferior_Temporal_Gyrus,FPN,FPN
+9,9,IFG_tri_l,Inferior_Frontal_Gyrus_pars_triangularis_Left,FPN_Lang_L,Fronto_Parietal_and_Language_Network_left_hemisphere,FPN,FPN
+10,10,IFG_oper_r,Inferior_Frontal_Gyrus_pars_opercularis_Right,Lang_R,Language_Network_right_Hemisphere,FPN,FPN
+11,11,IFG_oper_l,Inferior_Frontal_Gyrus_pars_opercularis_Left,FPN_Lang_L,Fronto_Parietal_and_Language_Network_left_hemisphere,FPN,FPN
+12,12,PreCG_r,Precentral_Gyrus_Right,Motor,Motor_areas,somatomotor,somatomotor
+13,13,PreCG_l,Precentral_Gyrus_Left,Motor,Motor_areas,somatomotor,somatomotor
+14,14,TP_r,Temporal_Pole_Right,STG,Superior_Temporal_Gyrus,limbic,limbic
+15,15,TP_l,Temporal_Pole_Left,STG,Superior_Temporal_Gyrus,limbic,limbic
+16,16,aSTG_r,Superior_Temporal_Gyrus_anterior_division_Right,STG,Superior_Temporal_Gyrus,somatomotor,somatomotor
+17,17,aSTG_l,Superior_Temporal_Gyrus_anterior_division_Left,STG,Superior_Temporal_Gyrus,somatomotor,somatomotor
+18,18,pSTG_r,Superior_Temporal_Gyrus_posterior_division_Right,STG,Superior_Temporal_Gyrus,somatomotor,somatomotor
+19,19,pSTG_l,Superior_Temporal_Gyrus_posterior_division_Left,STG,Superior_Temporal_Gyrus,somatomotor,somatomotor
+20,20,aMTG_r,Middle_Temporal_Gyrus_anterior_division_Right,aDMN,anterior_Default_Mode_Network,DMN,DMN
+21,21,aMTG_l,Middle_Temporal_Gyrus_anterior_division_Left,aDMN,anterior_Default_Mode_Network,DMN,DMN
+22,22,pMTG_r,Middle_Temporal_Gyrus_posterior_division_Right,lDMN,lateral_Default_Mode_Network_areas,DMN,DMN
+23,23,pMTG_l,Middle_Temporal_Gyrus_posterior_division_Left,lDMN,lateral_Default_Mode_Network_areas,DMN,DMN
+24,24,toMTG_r,Middle_Temporal_Gyrus_temporooccipital_part_Right,Lang_R,Language_Network_right_Hemisphere,DAN,DAN
+25,25,toMTG_l,Middle_Temporal_Gyrus_temporooccipital_part_Left,FPN_Lang_L,Fronto_Parietal_and_Language_Network_left_hemisphere,DAN,DAN
+26,26,aITG_r,Inferior_Temporal_Gyrus_anterior_division_Right,ITG,Inferior_Temporal_Gyrus,limbic,limbic
+27,27,aITG_l,Inferior_Temporal_Gyrus_anterior_division_Left,ITG,Inferior_Temporal_Gyrus,limbic,limbic
+28,28,pITG_r,Inferior_Temporal_Gyrus_posterior_division_Right,ITG,Inferior_Temporal_Gyrus,limbic,limbic
+29,29,pITG_l,Inferior_Temporal_Gyrus_posterior_division_Left,ITG,Inferior_Temporal_Gyrus,limbic,limbic
+30,30,toITG_r,Inferior_Temporal_Gyrus_temporooccipital_part_Right,DAN,Dorsal_Attention_Network,DAN,DAN
+31,31,toITG_l,Inferior_Temporal_Gyrus_temporooccipital_part_Left,DAN,Dorsal_Attention_Network,DAN,DAN
+32,32,PostCG_r,Postcentral_Gyrus_Right,Motor,Motor_areas,somatomotor,somatomotor
+33,33,PostCG_l,Postcentral_Gyrus_Left,Motor,Motor_areas,somatomotor,somatomotor
+34,34,SPL_r,Superior_Parietal_Lobule_Right,DAN,Dorsal_Attention_Network,DAN,DAN
+35,35,SPL_l,Superior_Parietal_Lobule_Left,DAN,Dorsal_Attention_Network,DAN,DAN
+36,36,aSMG_r,Supramarginal_Gyrus_anterior_division_Right,aSMG,anterior_Supramarginal_Gyrus,DAN,DAN
+37,37,aSMG_l,Supramarginal_Gyrus_anterior_division_Left,aSMG,anterior_Supramarginal_Gyrus,DAN,DAN
+38,38,pSMG_r,Supramarginal_Gyrus_posterior_division_Right,Lang_R,Language_Network_right_Hemisphere,VAN,VAN
+39,39,pSMG_l,Supramarginal_Gyrus_posterior_division_Left,FPN_Lang_L,Fronto_Parietal_and_Language_Network_left_hemisphere,VAN,VAN
+40,40,AG_r,Angular_Gyrus_Right,lDMN,lateral_Default_Mode_Network_areas,DMN,DMN
+41,41,AG_l,Angular_Gyrus_Left,lDMN,lateral_Default_Mode_Network_areas,DMN,DMN
+42,42,sLOC_r,Lateral_Occipital_Cortex_superior_division_Right,sLOC,superior_Latereal_Occipital_Cortex,DMN,DMN
+43,43,sLOC_l,Lateral_Occipital_Cortex_superior_division_Left,sLOC,superior_Latereal_Occipital_Cortex,DMN,DMN
+44,44,iLOC_r,Lateral_Occipital_Cortex_inferior_division_Right,Visual Secondary,secondary_Visual_areas,visual,visual
+45,45,iLOC_l,Lateral_Occipital_Cortex_inferior_division_Left,Visual Secondary,secondary_Visual_areas,visual,visual
+46,46,ICC_r,Intracalcarine_Cortex_Right,Visual Primary,primary_Visual_areas,visual,visual
+47,47,ICC_l,Intracalcarine_Cortex_Left,Visual Primary,primary_Visual_areas,visual,visual
+48,48,MedFC,Frontal_Medial_Cortex,aDMN,anterior_Default_Mode_Network,DMN,DMN
+49,49,SMA_r,Juxtapositional_Lobule_Cortex_r,Auditory,Auditory_areas,somatomotor,somatomotor
+50,50,SMA_l,Juxtapositional_Lobule_Cortex_l,Auditory,Auditory_areas,somatomotor,somatomotor
+51,51,SubCalC,Subcallosal_Cortex,aDMN,anterior_Default_Mode_Network,limbic,limbic
+52,52,PaCiG_r,Paracingulate_Gyrus_Right,PaCiG,paracingulate_Gyrus,FPN,FPN
+53,53,PaCiG_l,Paracingulate_Gyrus_Left,PaCiG,paracingulate_Gyrus,FPN,FPN
+54,54,AC,Cingulate_Gyrus_anterior_division,Salience,Salience_network,FPN,FPN
+55,55,PC,Cingulate_Gyrus_posterior_division,pDMN,posterior_Default_Mode_Network,DMN,DMN
+56,56,Precuneous,Precuneous_Cortex,pDMN,posterior_Default_Mode_Network,DMN,DMN
+57,57,Cuneal_r,Cuneal_Cortex_Right,Visual Primary,primary_Visual_areas,visual,visual
+58,58,Cuneal_l,Cuneal_Cortex_Left,Visual Primary,primary_Visual_areas,visual,visual
+59,59,FOrb_r,Frontal_Orbital_Cortex_Right,ITG,Inferior_Temporal_Gyrus,limbic,limbic
+60,60,FOrb_l,Frontal_Orbital_Cortex_Left,ITG,Inferior_Temporal_Gyrus,limbic,limbic
+61,61,aPaHC_r,Parahippocampal_Gyrus_anterior_division_Right,Limbic / aPaHC,Limbic_and_anterior_Parahippocampal_Cortex,limbic,limbic
+62,62,aPaHC_l,Parahippocampal_Gyrus_anterior_division_Left,Limbic / aPaHC,Limbic_and_anterior_Parahippocampal_Cortex,limbic,limbic
+63,63,pPaHC_r,Parahippocampal_Gyrus_posterior_division_Right,Cblm_pPaHC,Cerebellum_and_posterior_Parahippocampal_Cortex,DMN,DMN
+64,64,pPaHC_l,Parahippocampal_Gyrus_posterior_division_Left,Cblm_pPaHC,Cerebellum_and_posterior_Parahippocampal_Cortex,DMN,DMN
+65,65,LG_r,Lingual_Gyrus_Right,Visual Primary,primary_Visual_areas,visual,visual
+66,66,LG_l,Lingual_Gyrus_Left,Visual Primary,primary_Visual_areas,visual,visual
+67,67,aTFusC_r,Temporal_Fusiform_Cortex_anterior_division_Right,Limbic / aPaHC,Limbic_and_anterior_Parahippocampal_Cortex,limbic,limbic
+68,68,aTFusC_l,Temporal_Fusiform_Cortex_anterior_division_Left,Limbic / aPaHC,Limbic_and_anterior_Parahippocampal_Cortex,limbic,limbic
+69,69,pTFusC_r,Temporal_Fusiform_Cortex_posterior_division_Right,Limbic / aPaHC,Limbic_and_anterior_Parahippocampal_Cortex,limbic,limbic
+70,70,pTFusC_l,Temporal_Fusiform_Cortex_posterior_division_Left,Limbic / aPaHC,Limbic_and_anterior_Parahippocampal_Cortex,limbic,limbic
+71,71,TOFusC_r,Temporal_Occipital_Fusiform_Cortex_Right,Visual Secondary,secondary_Visual_areas,visual,visual
+72,72,TOFusC_l,Temporal_Occipital_Fusiform_Cortex_Left,Visual Secondary,secondary_Visual_areas,visual,visual
+73,73,OFusG_r,Occipital_Fusiform_Gyrus_Right,Visual Secondary,secondary_Visual_areas,visual,visual
+74,74,OFusG_l,Occipital_Fusiform_Gyrus_Left,Visual Secondary,secondary_Visual_areas,visual,visual
+75,75,FO_r,Frontal_Operculum_Cortex_Right,Salience,Salience_network,FPN,FPN
+76,76,FO_l,Frontal_Operculum_Cortex_Left,Salience,Salience_network,FPN,FPN
+77,77,CO_r,Central_Opercular_Cortex_Right,Auditory,Auditory_areas,somatomotor,somatomotor
+78,78,CO_l,Central_Opercular_Cortex_Left,Auditory,Auditory_areas,somatomotor,somatomotor
+79,79,PO_r,Parietal_Operculum_Cortex_Right,Auditory,Auditory_areas,VAN,VAN
+80,80,PO_l,Parietal_Operculum_Cortex_Left,Auditory,Auditory_areas,VAN,VAN
+81,81,PP_r,Planum_Polare_Right,Auditory,Auditory_areas,somatomotor,somatomotor
+82,82,PP_l,Planum_Polare_Left,Auditory,Auditory_areas,somatomotor,somatomotor
+83,83,HG_r,Heschl's_Gyrus_Right,Auditory,Auditory_areas,somatomotor,somatomotor
+84,84,HG_l,Heschl's_Gyrus_Left,Auditory,Auditory_areas,somatomotor,somatomotor
+85,85,PT_r,Planum_Temporale_Right,Auditory,Auditory_areas,somatomotor,somatomotor
+86,86,PT_l,Planum_Temporale_Left,Auditory,Auditory_areas,somatomotor,somatomotor
+87,87,SCC_r,Supracalcarine_Cortex_Right,Visual Primary,primary_Visual_areas,visual,visual
+88,88,SCC_l,Supracalcarine_Cortex_Left,Visual Primary,primary_Visual_areas,visual,visual
+89,89,OP_r,Occipital_Pole_Right,Visual Secondary,secondary_Visual_areas,visual,visual
+90,90,OP_l,Occipital_Pole_Left,Visual Secondary,secondary_Visual_areas,visual,visual
+91,91,Thalamus_r,Thalamus_r,Thalamus,Thalamus,subcortical,thalamus
+92,92,Thalamus_l,Thalamus_l,Thalamus,Thalamus,subcortical,thalamus
+93,93,Caudate_r,Caudate_r,Thalamus,Thalamus,subcortical,basal ganglia
+94,94,Caudate_l,Caudate_l,Thalamus,Thalamus,subcortical,basal ganglia
+95,95,Putamen_r,Putamen_r,Salience,Salience_network,subcortical,basal ganglia
+96,96,Putamen_l,Putamen_l,Salience,Salience_network,subcortical,basal ganglia
+97,97,Pallidum_r,Pallidum_r,Salience,Salience_network,subcortical,basal ganglia
+98,98,Pallidum_l,Pallidum_l,Salience,Salience_network,subcortical,basal ganglia
+99,99,Hippocampus_r,Hippocampus_r,Limbic / aPaHC,Limbic_and_anterior_Parahippocampal_Cortex,subcortical,DMN
+100,100,Hippocampus_l,Hippocampus_l,Limbic / aPaHC,Limbic_and_anterior_Parahippocampal_Cortex,subcortical,DMN
+101,101,Amygdala_r,Amygdala_r,Limbic / aPaHC,Limbic_and_anterior_Parahippocampal_Cortex,subcortical,DMN
+102,102,Amygdala_l,Amygdala_l,Limbic / aPaHC,Limbic_and_anterior_Parahippocampal_Cortex,subcortical,DMN
+103,103,Accumbens_r,Accumbens_r,Thalamus,Thalamus,subcortical,thalamus
+104,104,Accumbens_l,Accumbens_l,Thalamus,Thalamus,subcortical,thalamus
+105,105,Brain_Stem,Brain_Stem,Cblm_pPaHC,Cerebellum_and_posterior_Parahippocampal_Cortex,brain stem,brain stem
+106,106,Cereb1_l,Cerebelum_Crus1_Left,Cereb_Crus,Cerebellar_Crus,cerebellum,cerebellum
+107,107,Cereb1_r,Cerebelum_Crus1_Right,Cereb_Crus,Cerebellar_Crus,cerebellum,cerebellum
+108,108,Cereb2_l,Cerebelum_Crus2_Left,Cereb_Crus,Cerebellar_Crus,cerebellum,cerebellum
+109,109,Cereb2_r,Cerebelum_Crus2_Right,Cereb_Crus,Cerebellar_Crus,cerebellum,cerebellum
+110,110,Cereb3_l,Cerebelum_3_Left,Cblm_pPaHC,Cerebellum_and_posterior_Parahippocampal_Cortex,cerebellum,cerebellum
+111,111,Cereb3_r,Cerebelum_3_Right,Cblm_pPaHC,Cerebellum_and_posterior_Parahippocampal_Cortex,cerebellum,cerebellum
+112,112,Cereb45_l,Cerebelum_4_5_Left,Cerebellum,Cerebellum,cerebellum,cerebellum
+113,113,Cereb45_r,Cerebelum_4_5_Right,Cerebellum,Cerebellum,cerebellum,cerebellum
+114,114,Cereb6_l,Cerebelum_6_Left,Cerebellum,Cerebellum,cerebellum,cerebellum
+115,115,Cereb6_r,Cerebelum_6_Right,Cerebellum,Cerebellum,cerebellum,cerebellum
+116,116,Cereb7_l,Cerebelum_7b_Left,Cereb_Crus,Cerebellar_Crus,cerebellum,cerebellum
+117,117,Cereb7_r,Cerebelum_7b_Right,Cereb_Crus,Cerebellar_Crus,cerebellum,cerebellum
+118,118,Cereb8_l,Cerebelum_8_Left,Cerebellum,Cerebellum,cerebellum,cerebellum
+119,119,Cereb8_r,Cerebelum_8_Right,Cerebellum,Cerebellum,cerebellum,cerebellum
+120,120,Cereb9_l,Cerebelum_9_Left,Cblm_pPaHC,Cerebellum_and_posterior_Parahippocampal_Cortex,cerebellum,cerebellum
+121,121,Cereb9_r,Cerebelum_9_Right,Cblm_pPaHC,Cerebellum_and_posterior_Parahippocampal_Cortex,cerebellum,cerebellum
+122,122,Cereb10_l,Cerebelum_10_Left,Cerebellum,Cerebellum,cerebellum,cerebellum
+123,123,Cereb10_r,Cerebelum_10_Right,Cerebellum,Cerebellum,cerebellum,cerebellum
+124,124,Ver12,Vermis_1_2,Cblm_pPaHC,Cerebellum_and_posterior_Parahippocampal_Cortex,cerebellum,cerebellum
+125,125,Ver3,Vermis_3,Cblm_pPaHC,Cerebellum_and_posterior_Parahippocampal_Cortex,cerebellum,cerebellum
+126,126,Ver45,Vermis_4_5,Cerebellum,Cerebellum,cerebellum,cerebellum
+127,127,Ver6,Vermis_6,Cerebellum,Cerebellum,cerebellum,cerebellum
+128,128,Ver7,Vermis_7,Cerebellum,Cerebellum,cerebellum,cerebellum
+129,129,Ver8,Vermis_8,Cerebellum,Cerebellum,cerebellum,cerebellum
+130,130,Ver9,Vermis_9,Cerebellum,Cerebellum,cerebellum,cerebellum
+131,131,Ver10,Vermis_10,Cblm_pPaHC,Cerebellum_and_posterior_Parahippocampal_Cortex,cerebellum,cerebellum
